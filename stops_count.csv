@@ -1,0 +1,687 @@
+"stop_suburb","stop_type","count"
+"Abbotsford                                        ","B   ",16
+"Abbotsford                                        ","T   ",2
+"Abbotsford                                        ","TR  ",4
+"Aberfeldie                                        ","B   ",18
+"Acheron                                           ","B   ",2
+"Airport West                                      ","B   ",50
+"Airport West                                      ","TR  ",10
+"Albanvale                                         ","B   ",26
+"Albert Park                                       ","B   ",7
+"Albert Park                                       ","TR  ",13
+"Albion                                            ","B   ",23
+"Alexandra                                         ","B   ",1
+"Alphington                                        ","B   ",24
+"Alphington                                        ","T   ",1
+"Altona                                            ","B   ",72
+"Altona                                            ","T   ",2
+"Altona Meadows                                    ","B   ",46
+"Altona North                                      ","B   ",108
+"Ardeer                                            ","B   ",19
+"Armadale                                          ","B   ",20
+"Armadale                                          ","T   ",2
+"Armadale                                          ","TR  ",28
+"Ascot Vale                                        ","B   ",47
+"Ascot Vale                                        ","T   ",1
+"Ascot Vale                                        ","TR  ",22
+"Ashburton                                         ","B   ",29
+"Ashburton                                         ","T   ",2
+"Ashwood                                           ","B   ",32
+"Aspendale                                         ","B   ",19
+"Aspendale                                         ","T   ",1
+"Aspendale Gardens                                 ","B   ",17
+"Attwood                                           ","B   ",5
+"Avondale Heights                                  ","B   ",46
+"Avonsleigh                                        ","B   ",6
+"Badger Creek                                      ","B   ",9
+"Balaclava                                         ","B   ",1
+"Balaclava                                         ","T   ",1
+"Balaclava                                         ","TR  ",12
+"Balnarring                                        ","B   ",1
+"Balwyn                                            ","B   ",52
+"Balwyn                                            ","TR  ",18
+"Balwyn North                                      ","B   ",77
+"Balwyn North                                      ","TR  ",12
+"Bangholme                                         ","B   ",11
+"Baxter                                            ","B   ",10
+"Baxter                                            ","T   ",1
+"Bayswater                                         ","B   ",61
+"Bayswater                                         ","T   ",1
+"Bayswater North                                   ","B   ",66
+"Beaconsfield                                      ","B   ",26
+"Beaconsfield                                      ","T   ",1
+"Beaumaris                                         ","B   ",69
+"Belgrave                                          ","B   ",33
+"Belgrave                                          ","T   ",1
+"Belgrave Heights                                  ","B   ",8
+"Belgrave South                                    ","B   ",15
+"Bellfield                                         ","B   ",18
+"Bendigo                                           ","B   ",128
+"Bentleigh                                         ","B   ",53
+"Bentleigh                                         ","T   ",2
+"Bentleigh East                                    ","B   ",142
+"Berwick                                           ","B   ",209
+"Berwick                                           ","T   ",1
+"Beveridge                                         ","B   ",9
+"Bittern                                           ","B   ",12
+"Bittern                                           ","T   ",1
+"Blackburn                                         ","B   ",85
+"Blackburn                                         ","T   ",2
+"Blackburn North                                   ","B   ",43
+"Blackburn South                                   ","B   ",49
+"Black Rock                                        ","B   ",25
+"Blairgowrie                                       ","B   ",34
+"Blind Bight                                       ","B   ",11
+"Bonbeach                                          ","B   ",12
+"Bonbeach                                          ","T   ",1
+"Boronia                                           ","B   ",114
+"Boronia                                           ","T   ",1
+"Botanic Ridge                                     ","B   ",13
+"Box Hill                                          ","B   ",89
+"Box Hill                                          ","T   ",1
+"Box Hill                                          ","TR  ",5
+"Box Hill North                                    ","B   ",49
+"Box Hill South                                    ","B   ",50
+"Braeside                                          ","B   ",34
+"Braybrook                                         ","B   ",41
+"Briar Hill                                        ","B   ",19
+"Brighton                                          ","B   ",107
+"Brighton                                          ","T   ",4
+"Brighton East                                     ","B   ",59
+"Brighton East                                     ","TR  ",11
+"Broadmeadows                                      ","B   ",88
+"Broadmeadows                                      ","T   ",1
+"Brookfield                                        ","B   ",20
+"Brooklyn                                          ","B   ",26
+"Brunswick                                         ","B   ",73
+"Brunswick                                         ","T   ",3
+"Brunswick                                         ","TR  ",25
+"Brunswick East                                    ","B   ",33
+"Brunswick East                                    ","TR  ",21
+"Brunswick West                                    ","B   ",83
+"Brunswick West                                    ","TR  ",18
+"Bulla                                             ","B   ",6
+"Bulleen                                           ","B   ",55
+"Bundoora                                          ","B   ",109
+"Bundoora                                          ","TR  ",23
+"Burnley                                           ","T   ",1
+"Burnley                                           ","TR  ",8
+"Burnside                                          ","B   ",32
+"Burnside Heights                                  ","B   ",3
+"Burwood                                           ","B   ",56
+"Burwood                                           ","TR  ",17
+"Burwood East                                      ","B   ",47
+"Burwood East                                      ","TR  ",13
+"Buxton                                            ","B   ",3
+"Cairnlea                                          ","B   ",16
+"California Gully                                  ","B   ",23
+"Camberwell                                        ","B   ",51
+"Camberwell                                        ","T   ",5
+"Camberwell                                        ","TR  ",65
+"Campbellfield                                     ","B   ",42
+"Cannons Creek                                     ","B   ",5
+"Canterbury                                        ","B   ",24
+"Canterbury                                        ","T   ",1
+"Canterbury                                        ","TR  ",7
+"Carlton                                           ","B   ",40
+"Carlton                                           ","TR  ",14
+"Carlton North                                     ","B   ",20
+"Carlton North                                     ","TR  ",12
+"Carnegie                                          ","B   ",47
+"Carnegie                                          ","T   ",1
+"Carnegie                                          ","TR  ",11
+"Caroline Springs                                  ","B   ",87
+"Carrum                                            ","B   ",25
+"Carrum                                            ","T   ",1
+"Carrum Downs                                      ","B   ",116
+"Caulfield                                         ","B   ",10
+"Caulfield                                         ","TR  ",21
+"Caulfield East                                    ","B   ",3
+"Caulfield East                                    ","T   ",1
+"Caulfield East                                    ","TR  ",10
+"Caulfield North                                   ","B   ",40
+"Caulfield North                                   ","TR  ",37
+"Caulfield South                                   ","B   ",32
+"Caulfield South                                   ","TR  ",12
+"Chadstone                                         ","B   ",35
+"Chelsea                                           ","B   ",30
+"Chelsea                                           ","T   ",1
+"Chelsea Heights                                   ","B   ",43
+"Cheltenham                                        ","B   ",136
+"Cheltenham                                        ","T   ",2
+"Chirnside Park                                    ","B   ",33
+"Chum Creek                                        ","B   ",2
+"Clarinda                                          ","B   ",40
+"Clayton                                           ","B   ",86
+"Clayton                                           ","T   ",1
+"Clayton South                                     ","B   ",73
+"Clayton South                                     ","T   ",1
+"Clematis                                          ","B   ",9
+"Clifton Hill                                      ","B   ",20
+"Clifton Hill                                      ","T   ",1
+"Clifton Hill                                      ","TR  ",8
+"Clyde                                             ","B   ",16
+"Clyde North                                       ","B   ",75
+"Coburg                                            ","B   ",97
+"Coburg                                            ","T   ",2
+"Coburg                                            ","TR  ",38
+"Coburg North                                      ","B   ",50
+"Coburg North                                      ","T   ",2
+"Coburg North                                      ","TR  ",5
+"Cockatoo                                          ","B   ",22
+"Coldstream                                        ","B   ",20
+"Collingwood                                       ","B   ",11
+"Collingwood                                       ","TR  ",5
+"Coolaroo                                          ","B   ",39
+"Coolaroo                                          ","T   ",2
+"Craigieburn                                       ","B   ",187
+"Craigieburn                                       ","T   ",1
+"Cranbourne                                        ","B   ",70
+"Cranbourne                                        ","T   ",1
+"Cranbourne East                                   ","B   ",48
+"Cranbourne North                                  ","B   ",86
+"Cranbourne North                                  ","T   ",1
+"Cranbourne South                                  ","B   ",7
+"Cranbourne West                                   ","B   ",31
+"Cremorne                                          ","TR  ",3
+"Crib Point                                        ","B   ",8
+"Crib Point                                        ","T   ",3
+"Croydon                                           ","B   ",139
+"Croydon                                           ","T   ",1
+"Croydon Hills                                     ","B   ",11
+"Croydon North                                     ","B   ",36
+"Croydon South                                     ","B   ",15
+"Dallas                                            ","B   ",24
+"Dandenong                                         ","B   ",142
+"Dandenong                                         ","T   ",1
+"Dandenong North                                   ","B   ",98
+"Dandenong South                                   ","B   ",208
+"Deer Park                                         ","B   ",67
+"Delahey                                           ","B   ",29
+"Derrimut                                          ","B   ",24
+"Devon Meadows                                     ","B   ",18
+"Diamond Creek                                     ","B   ",40
+"Diamond Creek                                     ","T   ",1
+"Diggers Rest                                      ","B   ",12
+"Diggers Rest                                      ","T   ",1
+"Dingley Village                                   ","B   ",61
+"Docklands                                         ","B   ",4
+"Docklands                                         ","TR  ",44
+"Doncaster                                         ","B   ",113
+"Doncaster East                                    ","B   ",134
+"Donnybrook                                        ","B   ",8
+"Donvale                                           ","B   ",60
+"Doreen                                            ","B   ",90
+"Doveton                                           ","B   ",40
+"Dromana                                           ","B   ",16
+"Eaglehawk                                         ","B   ",44
+"Eaglemont                                         ","B   ",7
+"Eaglemont                                         ","T   ",1
+"East Bendigo                                      ","B   ",31
+"East Melbourne                                    ","B   ",18
+"East Melbourne                                    ","T   ",2
+"East Melbourne                                    ","TR  ",34
+"East Warburton                                    ","B   ",9
+"Edithvale                                         ","B   ",29
+"Edithvale                                         ","T   ",1
+"Eildon                                            ","B   ",1
+"Elsternwick                                       ","B   ",50
+"Elsternwick                                       ","T   ",1
+"Elsternwick                                       ","TR  ",14
+"Eltham                                            ","B   ",53
+"Eltham                                            ","T   ",1
+"Eltham North                                      ","B   ",22
+"Elwood                                            ","B   ",38
+"Elwood                                            ","TR  ",5
+"Emerald                                           ","B   ",16
+"Endeavour Hills                                   ","B   ",129
+"Epping                                            ","B   ",163
+"Epping                                            ","T   ",1
+"Epsom                                             ","B   ",33
+"Essendon                                          ","B   ",99
+"Essendon                                          ","T   ",2
+"Essendon                                          ","TR  ",26
+"Essendon North                                    ","B   ",4
+"Essendon North                                    ","TR  ",4
+"Essendon West                                     ","B   ",6
+"Eumemmerring                                      ","B   ",6
+"Fairfield                                         ","B   ",41
+"Fairfield                                         ","T   ",1
+"Fawkner                                           ","B   ",76
+"Fawkner                                           ","T   ",1
+"Ferntree Gully                                    ","B   ",137
+"Ferntree Gully                                    ","T   ",1
+"Ferny Creek                                       ","B   ",12
+"Fitzroy                                           ","B   ",8
+"Fitzroy                                           ","TR  ",36
+"Fitzroy North                                     ","B   ",35
+"Fitzroy North                                     ","T   ",1
+"Fitzroy North                                     ","TR  ",24
+"Flemington                                        ","B   ",14
+"Flemington                                        ","T   ",2
+"Flemington                                        ","TR  ",19
+"Flinders                                          ","B   ",5
+"Flora Hill                                        ","B   ",22
+"Footscray                                         ","B   ",99
+"Footscray                                         ","T   ",2
+"Footscray                                         ","TR  ",15
+"Forest Hill                                       ","B   ",49
+"Frankston                                         ","B   ",203
+"Frankston                                         ","T   ",2
+"Frankston North                                   ","B   ",39
+"Frankston South                                   ","B   ",75
+"Gardenvale                                        ","B   ",10
+"Gembrook                                          ","B   ",16
+"Gladstone Park                                    ","B   ",32
+"Glen Huntly                                       ","B   ",2
+"Glen Huntly                                       ","T   ",1
+"Glen Huntly                                       ","TR  ",3
+"Glen Iris                                         ","B   ",47
+"Glen Iris                                         ","T   ",3
+"Glen Iris                                         ","TR  ",19
+"Glenroy                                           ","B   ",76
+"Glenroy                                           ","T   ",3
+"Glen Waverley                                     ","B   ",180
+"Glen Waverley                                     ","T   ",2
+"Golden Square                                     ","B   ",51
+"Gowanbrae                                         ","B   ",16
+"Greensborough                                     ","B   ",96
+"Greensborough                                     ","T   ",1
+"Greenvale                                         ","B   ",66
+"Hadfield                                          ","B   ",46
+"Hallam                                            ","B   ",57
+"Hallam                                            ","T   ",1
+"Hamlyn Heights                                    ","B   ",1
+"Hampton                                           ","B   ",68
+"Hampton                                           ","T   ",1
+"Hampton East                                      ","B   ",15
+"Hampton Park                                      ","B   ",104
+"Hastings                                          ","B   ",28
+"Hastings                                          ","T   ",1
+"Hawthorn                                          ","B   ",8
+"Hawthorn                                          ","T   ",2
+"Hawthorn                                          ","TR  ",56
+"Hawthorn East                                     ","B   ",21
+"Hawthorn East                                     ","T   ",1
+"Hawthorn East                                     ","TR  ",24
+"Healesville                                       ","B   ",38
+"Heatherton                                        ","B   ",36
+"Heathmont                                         ","B   ",18
+"Heathmont                                         ","T   ",1
+"Heidelberg                                        ","B   ",25
+"Heidelberg                                        ","T   ",1
+"Heidelberg Heights                                ","B   ",51
+"Heidelberg West                                   ","B   ",48
+"Highett                                           ","B   ",53
+"Highett                                           ","T   ",1
+"Hillside                                          ","B   ",110
+"Hoppers Crossing                                  ","B   ",186
+"Hoppers Crossing                                  ","T   ",1
+"Hughesdale                                        ","B   ",36
+"Hughesdale                                        ","T   ",1
+"Humevale                                          ","B   ",10
+"Huntingdale                                       ","B   ",9
+"Huntly                                            ","B   ",27
+"Hurstbridge                                       ","B   ",3
+"Hurstbridge                                       ","T   ",1
+"Ironbark                                          ","B   ",16
+"Ivanhoe                                           ","B   ",118
+"Ivanhoe                                           ","T   ",4
+"Ivanhoe East                                      ","B   ",14
+"Jacana                                            ","B   ",15
+"Jackass Flat                                      ","B   ",8
+"Junction Village                                  ","B   ",8
+"Kalkallo                                          ","B   ",4
+"Kallista                                          ","B   ",4
+"Kalorama                                          ","B   ",12
+"Kangaroo Flat                                     ","B   ",61
+"Kangaroo Ground                                   ","B   ",12
+"Kealba                                            ","B   ",13
+"Keilor                                            ","B   ",31
+"Keilor Downs                                      ","B   ",49
+"Keilor East                                       ","B   ",61
+"Keilor Lodge                                      ","B   ",2
+"Keilor North                                      ","B   ",3
+"Keilor Park                                       ","B   ",14
+"Kennington                                        ","B   ",23
+"Kensington                                        ","B   ",16
+"Kensington                                        ","T   ",2
+"Kensington                                        ","TR  ",2
+"Kew                                               ","B   ",71
+"Kew                                               ","TR  ",42
+"Kew East                                          ","B   ",38
+"Kew East                                          ","TR  ",10
+"Keysborough                                       ","B   ",124
+"Kilsyth                                           ","B   ",63
+"Kilsyth South                                     ","B   ",18
+"Kinglake                                          ","B   ",7
+"Kinglake Central                                  ","B   ",5
+"Kinglake West                                     ","B   ",10
+"Kingsbury                                         ","B   ",17
+"Kingsbury                                         ","TR  ",4
+"Kings Park                                        ","B   ",24
+"Kingsville                                        ","B   ",9
+"Knoxfield                                         ","B   ",55
+"Kooyong                                           ","T   ",1
+"Kooyong                                           ","TR  ",5
+"Kurunjang                                         ","B   ",31
+"Lalor                                             ","B   ",74
+"Lalor                                             ","T   ",1
+"Langwarrin                                        ","B   ",84
+"Langwarrin South                                  ","B   ",18
+"Launching Place                                   ","B   ",12
+"Laverton                                          ","B   ",22
+"Laverton                                          ","T   ",2
+"Laverton North                                    ","B   ",44
+"Lilydale                                          ","B   ",87
+"Lilydale                                          ","T   ",1
+"Long Gully                                        ","B   ",15
+"Lower Plenty                                      ","B   ",8
+"Lynbrook                                          ","B   ",14
+"Lynbrook                                          ","T   ",1
+"Lyndhurst                                         ","B   ",19
+"Lysterfield                                       ","B   ",27
+"Macleod                                           ","B   ",31
+"Macleod                                           ","T   ",1
+"Maiden Gully                                      ","B   ",28
+"Maidstone                                         ","B   ",36
+"Maidstone                                         ","TR  ",2
+"Malvern                                           ","B   ",3
+"Malvern                                           ","T   ",2
+"Malvern                                           ","TR  ",52
+"Malvern East                                      ","B   ",83
+"Malvern East                                      ","T   ",3
+"Malvern East                                      ","TR  ",17
+"Maribyrnong                                       ","B   ",55
+"Maribyrnong                                       ","TR  ",29
+"Marysville                                        ","B   ",2
+"Mccrae                                            ","B   ",10
+"Mckinnon                                          ","B   ",21
+"Mckinnon                                          ","T   ",1
+"Meadow Heights                                    ","B   ",61
+"Melbourne                                         ","B   ",1377
+"Melbourne                                         ","T   ",135
+"Melbourne                                         ","TR  ",3375
+"Melton                                            ","B   ",74
+"Melton South                                      ","B   ",47
+"Melton West                                       ","B   ",73
+"Mentone                                           ","B   ",58
+"Mentone                                           ","T   ",1
+"Menzies Creek                                     ","B   ",6
+"Mernda                                            ","B   ",83
+"Mernda                                            ","T   ",1
+"Merricks                                          ","B   ",3
+"Mickleham                                         ","B   ",47
+"Middle Park                                       ","B   ",10
+"Middle Park                                       ","TR  ",21
+"Millgrove                                         ","B   ",5
+"Mill Park                                         ","B   ",135
+"Mitcham                                           ","B   ",90
+"Mitcham                                           ","T   ",1
+"Monbulk                                           ","B   ",18
+"Mont Albert                                       ","B   ",17
+"Mont Albert                                       ","T   ",1
+"Mont Albert                                       ","TR  ",5
+"Mont Albert North                                 ","B   ",33
+"Montmorency                                       ","B   ",31
+"Montmorency                                       ","T   ",1
+"Montrose                                          ","B   ",48
+"Moonee Ponds                                      ","B   ",65
+"Moonee Ponds                                      ","T   ",1
+"Moonee Ponds                                      ","TR  ",24
+"Moorabbin                                         ","B   ",53
+"Moorabbin                                         ","T   ",1
+"Moorabbin Airport                                 ","B   ",8
+"Mooroolbark                                       ","B   ",41
+"Mooroolbark                                       ","T   ",1
+"Mordialloc                                        ","B   ",35
+"Mordialloc                                        ","T   ",1
+"Mornington                                        ","B   ",119
+"Mount Dandenong                                   ","B   ",38
+"Mount Eliza                                       ","B   ",28
+"Mount Evelyn                                      ","B   ",36
+"Mount Martha                                      ","B   ",77
+"Mount Waverley                                    ","B   ",109
+"Mount Waverley                                    ","T   ",2
+"Mulgrave                                          ","B   ",110
+"Murrumbeena                                       ","B   ",48
+"Murrumbeena                                       ","T   ",1
+"Narbethong                                        ","B   ",2
+"Narre Warren                                      ","B   ",113
+"Narre Warren                                      ","T   ",1
+"Narre Warren East                                 ","B   ",5
+"Narre Warren North                                ","B   ",17
+"Narre Warren South                                ","B   ",109
+"Newport                                           ","B   ",56
+"Newport                                           ","T   ",1
+"Niddrie                                           ","B   ",32
+"Niddrie                                           ","TR  ",4
+"Noble Park                                        ","B   ",77
+"Noble Park                                        ","T   ",2
+"Noble Park North                                  ","B   ",48
+"North Bendigo                                     ","B   ",33
+"Northcote                                         ","B   ",73
+"Northcote                                         ","T   ",5
+"Northcote                                         ","TR  ",28
+"North Melbourne                                   ","B   ",20
+"North Melbourne                                   ","T   ",2
+"North Melbourne                                   ","TR  ",32
+"North Warrandyte                                  ","B   ",27
+"Notting Hill                                      ","B   ",19
+"Nunawading                                        ","B   ",66
+"Nunawading                                        ","T   ",1
+"Oakleigh                                          ","B   ",57
+"Oakleigh                                          ","T   ",2
+"Oakleigh East                                     ","B   ",24
+"Oakleigh South                                    ","B   ",77
+"Oak Park                                          ","B   ",19
+"Oak Park                                          ","T   ",1
+"Officer                                           ","B   ",16
+"Officer                                           ","T   ",1
+"Olinda                                            ","B   ",17
+"Ormond                                            ","B   ",40
+"Ormond                                            ","T   ",1
+"Pakenham                                          ","B   ",140
+"Pakenham                                          ","T   ",2
+"Pakenham Upper                                    ","B   ",10
+"Parkdale                                          ","B   ",41
+"Parkdale                                          ","T   ",1
+"Park Orchards                                     ","B   ",21
+"Parkville                                         ","B   ",25
+"Parkville                                         ","T   ",1
+"Parkville                                         ","TR  ",26
+"Pascoe Vale                                       ","B   ",59
+"Pascoe Vale                                       ","T   ",1
+"Pascoe Vale South                                 ","B   ",45
+"Pascoe Vale South                                 ","TR  ",9
+"Patterson Lakes                                   ","B   ",32
+"Pearcedale                                        ","B   ",13
+"Pheasant Creek                                    ","B   ",4
+"Plenty                                            ","B   ",14
+"Plumpton                                          ","B   ",2
+"Point Cook                                        ","B   ",124
+"Point Leo                                         ","B   ",1
+"Port Melbourne                                    ","B   ",200
+"Port Melbourne                                    ","TR  ",10
+"Portsea                                           ","B   ",17
+"Prahran                                           ","B   ",20
+"Prahran                                           ","T   ",1
+"Prahran                                           ","TR  ",38
+"Preston                                           ","B   ",170
+"Preston                                           ","T   ",2
+"Preston                                           ","TR  ",42
+"Quarry Hill                                       ","B   ",12
+"Ravenhall                                         ","B   ",6
+"Research                                          ","B   ",19
+"Reservoir                                         ","B   ",310
+"Reservoir                                         ","T   ",3
+"Reservoir                                         ","TR  ",10
+"Richmond                                          ","B   ",7
+"Richmond                                          ","T   ",4
+"Richmond                                          ","TR  ",59
+"Ringwood                                          ","B   ",122
+"Ringwood                                          ","T   ",2
+"Ringwood East                                     ","B   ",33
+"Ringwood East                                     ","T   ",1
+"Ringwood North                                    ","B   ",61
+"Ripponlea                                         ","B   ",5
+"Ripponlea                                         ","T   ",1
+"Rockbank                                          ","B   ",10
+"Rosanna                                           ","B   ",41
+"Rosanna                                           ","T   ",1
+"Rosebud                                           ","B   ",30
+"Rowville                                          ","B   ",137
+"Roxburgh Park                                     ","B   ",62
+"Roxburgh Park                                     ","T   ",1
+"Rye                                               ","B   ",69
+"Safety Beach                                      ","B   ",21
+"Sandhurst                                         ","B   ",2
+"Sandringham                                       ","B   ",43
+"Sandringham                                       ","T   ",1
+"Sassafras                                         ","B   ",13
+"Scoresby                                          ","B   ",57
+"Seabrook                                          ","B   ",7
+"Seaford                                           ","B   ",86
+"Seaford                                           ","T   ",2
+"Seaholme                                          ","T   ",1
+"Seddon                                            ","B   ",14
+"Seddon                                            ","T   ",1
+"Selby                                             ","B   ",8
+"Seville                                           ","B   ",9
+"Seville East                                      ","B   ",3
+"Sherbrooke                                        ","B   ",9
+"Shoreham                                          ","B   ",5
+"Silvan                                            ","B   ",20
+"Skye                                              ","B   ",3
+"Somers                                            ","B   ",22
+"Somerton                                          ","B   ",12
+"Somerville                                        ","B   ",26
+"Somerville                                        ","T   ",1
+"Sorrento                                          ","B   ",44
+"Southbank                                         ","B   ",15
+"Southbank                                         ","TR  ",23
+"South Kingsville                                  ","B   ",15
+"South Melbourne                                   ","B   ",15
+"South Melbourne                                   ","TR  ",40
+"South Morang                                      ","B   ",108
+"South Morang                                      ","T   ",3
+"South Yarra                                       ","B   ",43
+"South Yarra                                       ","T   ",2
+"South Yarra                                       ","TR  ",34
+"Spotswood                                         ","B   ",14
+"Spotswood                                         ","T   ",1
+"Spring Gully                                      ","B   ",16
+"Springvale                                        ","B   ",83
+"Springvale                                        ","T   ",2
+"Springvale South                                  ","B   ",49
+"St Albans                                         ","B   ",133
+"St Albans                                         ","T   ",3
+"St Andrews Beach                                  ","B   ",6
+"St Helena                                         ","B   ",13
+"St Kilda                                          ","B   ",35
+"St Kilda                                          ","TR  ",49
+"St Kilda East                                     ","B   ",28
+"St Kilda East                                     ","TR  ",15
+"St Kilda West                                     ","B   ",5
+"St Kilda West                                     ","TR  ",5
+"Strathdale                                        ","B   ",19
+"Strathmore                                        ","B   ",46
+"Strathmore                                        ","T   ",1
+"Strathmore Heights                                ","B   ",8
+"Sunbury                                           ","B   ",227
+"Sunbury                                           ","T   ",1
+"Sunshine                                          ","B   ",93
+"Sunshine                                          ","T   ",1
+"Sunshine North                                    ","B   ",41
+"Sunshine North                                    ","T   ",1
+"Sunshine West                                     ","B   ",78
+"Surrey Hills                                      ","B   ",47
+"Surrey Hills                                      ","T   ",2
+"Surrey Hills                                      ","TR  ",17
+"Sydenham                                          ","B   ",30
+"Sydenham                                          ","T   ",1
+"Taggerty                                          ","B   ",2
+"Tarneit                                           ","B   ",150
+"Tarrawarra                                        ","B   ",2
+"Taylors Hill                                      ","B   ",31
+"Taylors Lakes                                     ","B   ",66
+"Tecoma                                            ","B   ",16
+"Tecoma                                            ","T   ",1
+"Templestowe                                       ","B   ",103
+"Templestowe Lower                                 ","B   ",63
+"The Basin                                         ","B   ",16
+"The Patch                                         ","B   ",9
+"Thomastown                                        ","B   ",113
+"Thomastown                                        ","T   ",2
+"Thornbury                                         ","B   ",62
+"Thornbury                                         ","T   ",1
+"Thornbury                                         ","TR  ",18
+"Thornton                                          ","B   ",2
+"Tooradin                                          ","B   ",6
+"Toorak                                            ","B   ",21
+"Toorak                                            ","T   ",1
+"Toorak                                            ","TR  ",35
+"Tootgarook                                        ","B   ",26
+"Tottenham                                         ","B   ",5
+"Travancore                                        ","B   ",1
+"Travancore                                        ","TR  ",1
+"Tremont                                           ","B   ",3
+"Truganina                                         ","B   ",72
+"Tullamarine                                       ","B   ",65
+"Tyabb                                             ","B   ",13
+"Tyabb                                             ","T   ",1
+"Upper Ferntree Gully                              ","B   ",14
+"Upper Ferntree Gully                              ","T   ",1
+"Upwey                                             ","B   ",35
+"Upwey                                             ","T   ",1
+"Vermont                                           ","B   ",52
+"Vermont South                                     ","B   ",46
+"Vermont South                                     ","TR  ",4
+"Viewbank                                          ","B   ",22
+"Wandin North                                      ","B   ",14
+"Wantirna                                          ","B   ",46
+"Wantirna South                                    ","B   ",128
+"Warburton                                         ","B   ",13
+"Warneet                                           ","B   ",7
+"Warrandyte                                        ","B   ",49
+"Warrandyte South                                  ","B   ",3
+"Warranwood                                        ","B   ",22
+"Waterways                                         ","B   ",5
+"Watsonia                                          ","B   ",27
+"Watsonia                                          ","T   ",1
+"Watsonia North                                    ","B   ",22
+"Wattle Glen                                       ","B   ",3
+"Wattle Glen                                       ","T   ",1
+"Werribee                                          ","B   ",216
+"Werribee                                          ","T   ",1
+"Werribee South                                    ","B   ",14
+"Wesburn                                           ","B   ",10
+"West Bendigo                                      ","B   ",2
+"West Footscray                                    ","B   ",56
+"West Footscray                                    ","T   ",2
+"Westmeadows                                       ","B   ",36
+"West Melbourne                                    ","B   ",39
+"West Melbourne                                    ","T   ",1
+"West Melbourne                                    ","TR  ",2
+"Wheelers Hill                                     ","B   ",106
+"White Hills                                       ","B   ",35
+"Whittlesea                                        ","B   ",23
+"Williams Landing                                  ","B   ",23
+"Williams Landing                                  ","T   ",1
+"Williamstown                                      ","B   ",57
+"Williamstown                                      ","T   ",3
+"Williamstown North                                ","B   ",13
+"Windsor                                           ","B   ",8
+"Windsor                                           ","T   ",1
+"Windsor                                           ","TR  ",11
+"Wollert                                           ","B   ",37
+"Wonga Park                                        ","B   ",28
+"Woori Yallock                                     ","B   ",14
+"Wyndham Vale                                      ","B   ",61
+"Yallambie                                         ","B   ",19
+"Yan Yean                                          ","B   ",10
+"Yarra Glen                                        ","B   ",4
+"Yarra Junction                                    ","B   ",16
+"Yarrambat                                         ","B   ",18
+"Yarraville                                        ","B   ",82
+"Yarraville                                        ","T   ",1
